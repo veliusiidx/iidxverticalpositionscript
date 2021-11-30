@@ -1,6 +1,6 @@
 Automatically repositions the screen depending on if you're in song select, in a song, or if you are trying set options.
 
-Step 1 Make sure you have Bemanitools 5.36, set -p gfx.windowed=true -p gfx.framed=true at the end of your gamestart.bat script.
+Step 1 Make sure you have Bemanitools 5.36, set -p gfx.windowed=true -p gfx.framed=false at the end of your gamestart.bat script.
 
 Step 2 Set your monitor in vertical orientation to 1080x1440.
 
